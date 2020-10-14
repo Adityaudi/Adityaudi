@@ -1,6 +1,6 @@
-### Hi there 👋, I am [Adityaudi](https://www.adityaudi.my.id/)
+## Hi there 👋, I am [Adityaudi](https://www.adityaudi.my.id/)
 
-Love to learn, really passionate about technology and very eager to join the super fast development of innovative industry and become one of the best technologists. 
+#### Love to learn, really passionate about technology and very eager to join the super fast development of innovative industry and become one of the best technologists. 
 
 - 🌱 I’m currently learning Infrastruktur server. 
 - 👯 I’m looking to collaborate on DevOps and Frontend project. 
