@@ -1,6 +1,6 @@
 # Hi there 👋, I am [Adityaudi](https://www.adityaudi.my.id/)
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fpersonal-web)](https://adityaudi.my.id)
+[![Website](https://img.shields.io/website?label=PERSONAL-WEB&style=for-the-badge&url=https%3A%2F%2Fpersonal-web)](https://adityaudi.my.id)
 
 ### Love to learn, really passionate about technology and very eager to join the super fast development of innovative industry and become one of the best technologists. 
 
