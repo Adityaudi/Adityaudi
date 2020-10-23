@@ -9,13 +9,11 @@
 - 📫 How to reach me: website [personal.][website] 
 - ⚡ Fun fact: task like water if happy will satisfy😁 
 
-
-<br />
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="adityaudi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="adityaudi.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="adityaudi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="adityaudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="adityaudi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
